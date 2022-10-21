@@ -1,3 +1,3 @@
-# Skeleton React starter Project
+# React McCall Idaho Curling Club
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> McCall Idaho Curling Club
